@@ -87,7 +87,47 @@ Copilot Chat can help you quickly convert text-based ideas into visual content. 
 
 ## Task 4: Draft a planning document for the summit
 
-1. Review the image provided by Copilot and if needed, refine the prompt.  
+Now that you’ve outlined the structure and ideas for your event, use Copilot Chat to create a planning brief to put into a word document. This document will serve as your anchor for the project, capturing goals, session details, and success metrics in one place.
+
+1. In the same chat with Copilot, enter this prompt:
+
+   +++Create a 1-page planning brief for this Client Innovation Summit that includes: goals, audience, session themes, and key planning milestones.+++
+   
+1. Select **Send** or select **Enter**. 
+
+1. Review the information provided by Copilot and if needed, refine the prompt.
+
+1. Enter this follow-up prompt:
+
+   +++Add a section summarizing anticipated outcomes and success metrics for the event.* and select Send or enter on your keyboard.+++
+
+1. Select **Send** or select **Enter**.
+
+1. Review the information provided by Copilot and if needed, refine the prompt.
+
+1. Select **Copy** underneath the response to copy Copilot’s response.
+
+1. Open **Word** from the taskbar to create a new document.
+
+1. If prompted to sign in, enter your **username** (provided by your tenant provider) and select **Next**.
+
+1. Enter your **password** (provided by your tenant provider) and select **Sign in**.
+
+1. If prompted to **Stay signed in?**, select the **Don't show this again** checkbox and then select **Yes**
+
+1. Select **Blank document** to open a new Word document.
+
+1. **Paste** the Copilot response you copied into the Word document.
+
+1. Under **File** at the top right corner of your document, select **Save As** to save your document.
+
+1. Under Other Locations select **This PC** and enter a **file name** in the textbox at the top to give your document a name (ex: Client Summit Planning Brief).
+
+1.  Select **Save** and **close** out of your document.
+
+1. Navigate back to your Copilot Chat conversation to complete task 5.
+
+## Task 5: Analyze and generate content from a file
    
 1. This step includes an example of `inline code formatting`, which is used when the learner needs to type something (anything, not just code) because it creates a [T] link in the hosted Skillable environment.
 1. If you need the learner to open a website, include both a link (so they can open by clicking in the HTML GitHub page) AND the URL formatted as code (so they can type it in a hosted VM browser). For example, "Open the [Bing](https://www.bing.com) website at `https://www.bing.com`".
