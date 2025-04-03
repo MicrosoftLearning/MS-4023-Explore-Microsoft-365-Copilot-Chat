@@ -128,6 +128,30 @@ Now that you’ve outlined the structure and ideas for your event, use Copilot C
 1. Navigate back to your Copilot Chat conversation to complete task 5.
 
 ## Task 5: Analyze and generate content from a file
+
+In this task, you’ll upload the planning brief from Task 4 and have Copilot summarize it and generate an internal communication. This shows how Copilot can save time by turning documents into digestible, action-ready content.
+
+1. Continue in Copilot Chat, enter this prompt and upload the file you created in Task 4: 
+
+    +++Summarize the key points from this planning brief into only 5 condensed bullet points:+++
+
+1. Select **Add a file(paper clip icon)** on the bottom right corner of the prompt box to open the File Explorer dialogue and select **Documents** on right to locate your recently saved document from **Task 4**.
+
+1. Select your document and select **Open** at the bottom of File Explorer to upload the file to the Copilot Chat prompt box. 
+
+1. Once you see the file has been uploaded to the prompt box, select *Send*.
+
+1. Review the information provided by Copilot and if needed, refine the prompt.
+
+1. Enter this follow-up prompt:
+
+    +++Write a follow-up email to the planning team with these highlights and the next step.+++
+
+1. Select **Send** or select **Enter**.
+
+1. Review the information provided by Copilot and if needed, refine the prompt.
+
+## Task 6: Collaborate using Copilot Pages
    
 1. This step includes an example of `inline code formatting`, which is used when the learner needs to type something (anything, not just code) because it creates a [T] link in the hosted Skillable environment.
 1. If you need the learner to open a website, include both a link (so they can open by clicking in the HTML GitHub page) AND the URL formatted as code (so they can type it in a hosted VM browser). For example, "Open the [Bing](https://www.bing.com) website at `https://www.bing.com`".
