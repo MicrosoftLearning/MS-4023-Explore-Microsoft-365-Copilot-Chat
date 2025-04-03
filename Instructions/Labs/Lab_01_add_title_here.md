@@ -47,8 +47,48 @@ In this task, you’ll explore how Copilot Chat can help you quickly identify ke
 
 ## Task 2: Brainstorm and draft session ideas 
 
+Building on the trends you just researched, use Copilot to brainstorm engaging and relevant session titles and descriptions. This helps you transform raw insights into concrete agenda items that can drive value for event attendees.
 
-1. Step 1
+1. In the same chat with Copilot, enter this prompt:
+
+  +++Based on those trends, suggest 5 engaging session titles and write short descriptions for a client innovation summit.+++
+
+1. Select **Send** or select **Enter** on your keyboard. 
+
+1. Review the information provided by Copilot and if needed, refine the prompt.
+
+1. Enter this follow-up prompt:
+
+   +++Make the descriptions more compelling by using an energizing and professional tone.+++
+
+1. Select **Send** or select **Enter**. 
+
+1. Review the information provided by Copilot and if needed, refine the prompt.
+
+## Task 3: Visualize the agenda timeline and create a logo
+
+Copilot Chat can help you quickly convert text-based ideas into visual content. In this task, you’ll generate a timeline for the summit and a logo to reflect the theme of the summit, useful for promotional materials and summit-related to make it more engaging and attractive. 
+
+1. In the same chat with Copilot, enter this prompt:
+
+   +++Create an agenda timeline for a 1-day summit focused on [trend] with an introduction, closing, sessions at 9:00 AM, 11:00 AM, 1:30 PM, and 3:00, two mini breaks, and an hour break for lunch in a table format.+++
+
+   ***NOTE: Replace [trends] with one of the trends listed in Task 1.
+
+1. Select **Send** or select **Enter**. 
+
+1. Review the information provided by Copilot and if needed, refine the prompt.
+
+1. Enter this follow-up prompt:
+
+   +++Create a simple and modern logo for this client innovation summit.+++
+
+1. Select **Send** or select **Enter**.
+
+## Task 4: Draft a planning document for the summit
+
+1. Review the image provided by Copilot and if needed, refine the prompt.  
+   
 1. This step includes an example of `inline code formatting`, which is used when the learner needs to type something (anything, not just code) because it creates a [T] link in the hosted Skillable environment.
 1. If you need the learner to open a website, include both a link (so they can open by clicking in the HTML GitHub page) AND the URL formatted as code (so they can type it in a hosted VM browser). For example, "Open the [Bing](https://www.bing.com) website at `https://www.bing.com`".
 1. If you need the learner to download a file (or a bunch of files in a zip), store the file in Allfiles folder in this repo and use the **raw** URL - like this: "Download [file name](https://raw.githubusercontent.com/MicrosoftLearning/INF99X-SampleCourse/master/Allfiles/Labs/01/Starter/azuredeploy.json) from `https://raw.githubusercontent.com/MicrosoftLearning/INF99X-SampleCourse/master/Allfiles/Labs/01/Starter/azuredeploy.json`.
