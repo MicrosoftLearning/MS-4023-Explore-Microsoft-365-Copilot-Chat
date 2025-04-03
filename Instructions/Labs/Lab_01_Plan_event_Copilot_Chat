@@ -152,62 +152,25 @@ In this task, you’ll upload the planning brief from Task 4 and have Copilot su
 1. Review the information provided by Copilot and if needed, refine the prompt.
 
 ## Task 6: Collaborate using Copilot Pages
-   
-1. This step includes an example of `inline code formatting`, which is used when the learner needs to type something (anything, not just code) because it creates a [T] link in the hosted Skillable environment.
-1. If you need the learner to open a website, include both a link (so they can open by clicking in the HTML GitHub page) AND the URL formatted as code (so they can type it in a hosted VM browser). For example, "Open the [Bing](https://www.bing.com) website at `https://www.bing.com`".
-1. If you need the learner to download a file (or a bunch of files in a zip), store the file in Allfiles folder in this repo and use the **raw** URL - like this: "Download [file name](https://raw.githubusercontent.com/MicrosoftLearning/INF99X-SampleCourse/master/Allfiles/Labs/01/Starter/azuredeploy.json) from `https://raw.githubusercontent.com/MicrosoftLearning/INF99X-SampleCourse/master/Allfiles/Labs/01/Starter/azuredeploy.json`.
-1. Alternatively, for a developer audience, you can have them clone this repo if that seems more appropriate.
-1. If you need to include a multiline code block, indent it to match the bulleted list indent:
 
-    ```python
-    # This is an example of an
-    # indented code block.
-    ```
+Turn the email draft into a collaborative workspace using Copilot Pages. This will let you simulate how multiple team members can refine content in real time.
 
-1. If you need to include a acreenshot, resize it to an appropriate size (so any "normal" formatted text in a partial screenshot is roughly the same size as this text - generally try to make screenshots of full application windows 800x600px (approx)). Store images in a **Media** subfolder and use markdown to add it to the page (remembering that file and folder names are case-sensitive). If the image is in a list, indent it, like this:
+1. Select **Edit in Pages** underneath Copilot’s last response in Task 5 (or any response you prefer) to copy over that informatoin to Copilot Pages. 
 
-    ![A screenshot of an application.](./Media/edge-copilot.png) 
+1. A new Copilot Page will open on the right side of Copilot Chat, explore the following actions:
 
-1. If you need to explain why something is done the way it is, or provide additional context or links to info, use a note like this:
+    - Give the page a new title at the top of the page.  
+    - Type any additional content throughout the page.
+    - Enter **"/"** to insert content blocks, such as a table, or checklist.
+    - **@mention** a colleague (or simulate this) and grant them access by selecting **Share and notify** in the message that pops up when adding their name.
+    - Optionally, share your page by selecting the **Share** icon at the top right of the page and selecting one of the two options to copy a link.
 
-    > **Note**: This is a note.
+## Optional Wrap-Up Task: Review and Reflect
 
-1. Be flexible when providing instructions that might vary between self-paced and hosted lab environments. For example:
-    - "Sign in using your Azure credentials" (assuming there were Learn-specific instructions to use a personal subscription or create a trial in the Learn exercise page, and ILT-specific instructions to use provided cloudslice credentials in the Skillable lab profile)
-    - "Select an existing resource group or create a new one" (assuming that if a Skillable CS-R cloudslice is used, you included a note in the lab profile telling the learner which resource group they should use)
-    <!-- The key point is that this markdown file should be environment-agnostic - you need to provide explicit details of things that can vary OUTSIDE of this file (in the Learn exercise page or the Skillable lab profile instructions) -->
-1. etc.
+In the same chat with Copilot, enter this prompt:
 
-## Next task
+    +++Create a checklist of what I learned today using Copilot Chat and how I can apply it to my [role].+++
 
-Now let's, ...
+    **NOTE:** Replace [role] with your role.
 
-1. Step 1
-1. Step 2
-1. etc.
-
-## Task with subtasks
-
-Sometimes you might want to break a taak down into smaller chunks.
-
-### Subtask 1
-
-1. Step 1
-1. Step 2
-1. Etc.
-
-### Subtask 2
-
-1. Step 1
-1. Step 2
-1. etc.
-
-## Clean up
-
-<!-- Good practice - especially as self-paced learners will be using their own subscriptions -->
-<!-- Delete this section if it is not needed -->
-
-Now that you've finished the exercise, you should delete the cloud resources you've created to avoid unnecessary resource usage.
-
-1. Step 1
-2. etc.
+**End of Lab 1**
