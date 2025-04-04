@@ -166,4 +166,4 @@ In the same chat with Copilot, enter this prompt:
 
 **NOTE:** Replace [role] with your role.
 
-**End of Lab 1**
+**End of Lab**
