@@ -15,19 +15,19 @@ The tasks in this lab will guide you on how to navigate and prompt in Microsoft 
 
 Before you can start this lab, you'll need to log into your virtual machine and launch the Microsoft 365 Copilot Chat web app. Follow the steps below to get started: 
 
-1. Log into the virtual machine as the local **Administrator** account with the username and password provided by your tenant provider.
+1. Log into the virtual machine provided by your tenant provider as the local **Administrator** account with the password `Pa55w.rd`.
    
 1. In the Windows taskbar, select **Microsoft Edge**.
    
-1. Launch Microsoft 365 Copilot Chat by entering **m365copilot.com** in the address bar and a dialogue box will prompt you to sign in.
+1. To launch Microsoft 365 Copilot Chat, enter `https://m365copilot.com` in the address bar and a dialogue box will prompt you to sign in.
    
-1. At the "Sign in" screen, enter your **username** (provided by your tenant provider) and select **Next**.
+1. At the **Sign-in Prompt**, enter userx@yourtenant.onmicrosoft.com (provided by your tenant provider) and select **Next**.
    
-1. At the "Enter password" screen, enter your **password** (provided by your tenant provider) and select **Sign in**.
+1. At the **Enter password** screen, enter Password1 (provided by your tenant provider), then select **Sign in**..
    
-1. If prompted to "Stay signed in?", select the **Don't show this again** checkbox, then select **Yes**.
+1. If prompted to **Stay signed in?**, select the **Don't show this again** checkbox, then select **Yes**.
    
-1. If prompted to "Unlock Copilot Chat in Microsoft 365 Apps - Add Copilot Chat to Microsoft 365 Copilot app, Teams and Outlook for easy access," feel free to select **Skip for now** or **Add Copilot**, as either action does not have any effect on this lab exercise.
+1. If prompted to **Unlock Copilot Chat in Microsoft 365 Apps - Add Copilot Chat to Microsoft 365 Copilot app, Teams and Outlook for easy access**, feel free to select **Skip for now** or **Add Copilot**, as either action does not have any effect on this lab exercise.
    
 1. The Microsoft 365 Copilot Chat web app should launch, if not, select the **Copilot icon** on the left navigation menu to open Copilot Chat.
 
@@ -37,7 +37,7 @@ You are ready to begin Task 1.
 
 In this task, you’ll explore how Copilot Chat can help you quickly identify key innovation trends from the web that are relevant to your summit. This is the foundation for shaping the event agenda around meaningful topics that resonate with your client audience.
 
-1. Enter this prompt in the prompt box at the bottom of the interface:
+1. Enter this prompt in the prompt box at the bottom of the Copilot Chat:
 
     +++What are the top three innovation trends in [your industry] for 2025 and how can they shape the agenda for a client summit?+++
    
@@ -101,11 +101,11 @@ Now that you’ve outlined the structure and ideas for your event, use Copilot C
 
 1. Open **Word** from the Windows taskbar to create a new document.
 
-1. If prompted to sign in, enter your **username** (provided by your tenant provider) and select **Next**.
-
-1. Enter your **password** (provided by your tenant provider) and select **Sign in**.
-
-1. If prompted to "Stay signed in?", select the **Don't show this again** checkbox, then select **Yes**
+1. If prompted to sign in, enter userx@yourtenant.onmicrosoft.com (provided by your tenant provider) and select **Next**.
+   
+1. At the **Enter password** screen, enter Password1 (provided by your tenant provider), then select **Sign in**..
+   
+1. If prompted to **Stay signed in?**, select the **Don't show this again** checkbox, then select **Yes**.
 
 1. Select **Blank document** to open a new Word document.
 
@@ -127,9 +127,9 @@ In this task, you’ll upload the planning brief from Task 4 and have Copilot su
 
     +++Summarize the key points from this planning brief into only 5 condensed bullet points:+++
 
-1. Select **Add a file(paper clip icon)** on the bottom right corner of the prompt box to open the File Explorer dialogue.
+1. Select **Add a file (paper clip icon)** on the bottom right corner of the prompt box to open the File Explorer dialogue.
 
-1. select **Documents** on right of File Explorer to locate your recently saved document from **Task 4**.
+1. Select **Documents** on right of File Explorer to locate your recently saved document from **Task 4**.
 
 1. Select your document, then select **Open** at the bottom of File Explorer to upload the file to the Copilot Chat prompt box. 
 
@@ -162,8 +162,8 @@ Turn the email draft from Task 5 into a collaborative workspace using Copilot Pa
 
 In the same chat with Copilot, enter this prompt:
 
-    +++Create a checklist of what I learned today using Copilot Chat and how I can apply it to my [role].+++
++++Create a checklist of what I learned today using Copilot Chat and how I can apply it to my [role].+++
 
-    **NOTE:** Replace [role] with your role.
+**NOTE:** Replace [role] with your role.
 
 **End of Lab 1**
