@@ -63,7 +63,7 @@ In this task, you'll use Copilot Chat in OneNote to organize your planning notes
 
 1. Select the **Copilot icon** at the top right corner of the ribbon and Copilot will open in a side pane.  
 
-1. Locate and open the same chat conversation with Copilot located in the navigation panel under "chats."
+1. Open the same chat conversation with Copilot located in the navigation panel under "chats."
 
 1. In the same chat with Copilot, enter this prompt in the prompt box:
 
@@ -101,11 +101,11 @@ In this task, you'll use Copilot Chat in Excel to build and analyze an estimated
 
 1. Review the information provided by Copilot and if needed, refine the prompt.
 
-1. Open the Excel file Copilot Chat created and save it. 
+1. Download and open the Excel file Copilot Chat created and save it. 
 
 1. Select the **Copilot icon** at the top right corner of the ribbon and Copilot will open in a side pane. 
 
-1. Start a new chat or locate and open the same chat conversation located in the navigation panel under "chats."
+1. Open the same chat conversation located in the navigation panel under "chats."
 
 1. Enter this prompt: 
     
@@ -133,11 +133,11 @@ In this task, you'll use Copilot Chat in Word to draft a formal planning documen
 
 1. Review the information provided by Copilot and if needed, refine the prompt.
 
-1. Open the Word file Copilot Chat created and save it. 
+1. Download and open the Word file Copilot Chat created and save it. 
 
 1. Select the **Copilot icon** at the top right corner of the ribbon and Copilot will open in a side pane. 
 
-1. Start a new chat or locate and open the same chat conversation located in the navigation panel under "chats."
+1.  Open the same chat conversation located in the navigation panel under "chats."
 
 1. Enter this prompt: 
     
@@ -157,7 +157,7 @@ In this task, you'll use Copilot Chat in Outlook to create a friendly and fun in
 
 1. Select the **Copilot icon** at the top right corner of the ribbon and Copilot will open in a side pane.  
 
-1. Locate and open the same chat conversation with Copilot located in the navigation panel under "chats."
+1. Open the same chat conversation located in the navigation panel under "chats."
 
 1. In the same chat with Copilot, enter this prompt in the prompt box:
 
@@ -173,7 +173,7 @@ In this task, you'll use Copilot Chat in Outlook to create a friendly and fun in
 
 1. Enter this follow-up prompt: 
 
-    +++Let’s create a fun graphic to include in the email invite. The graphic should showcase [blue and green colors, collaboration, happy people, and technology].+++
+    +++Help me create a fun graphic to include in the email invite. The graphic should showcase [blue and green colors, collaboration, happy people, and technology].+++
 
     **NOTE:** Replace [blue and green colors, collaboration, happy people, and technology] with what you'd like the graphic to portray and look like. 
 
@@ -199,11 +199,11 @@ In this task, you'll use Copilot Chat in PowerPoint to generate a PowerPoint dec
 
 1. Review the information provided by Copilot and if needed, refine the prompt.
 
-1. Open the PowerPoint file Copilot Chat created and save it. 
+1. Download and open the PowerPoint file Copilot Chat created and save it. 
 
 1. Select the **Copilot icon** at the top right corner of the ribbon and Copilot will open in a side pane. 
 
-1. Start a new chat or locate and open the same chat conversation located in the navigation panel under "chats."
+1. Open the same chat conversation located in the navigation panel under "chats."
 
 1. Enter this prompt: 
     
@@ -213,6 +213,6 @@ In this task, you'll use Copilot Chat in PowerPoint to generate a PowerPoint dec
 
 1. Review the information provided by Copilot and if needed, refine the prompt.
 
-1. Add the content into your PowerPoint file and save. 
+1. Save your file. 
 
 **End of Lab 2**
