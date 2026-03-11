@@ -1,7 +1,20 @@
 ---
-# Lab 1
-    title: Plan a Client Summit with Microsoft 365 Copilot Chat
+lab:
+  title: Lab 1 - Plan a Client Summit with Microsoft 365 Copilot Chat
+  description: Imagine you're a business operations associate at a mid-sized consulting
+    firm. Your manager has asked you to lead planning for an upcoming Client Innovation
+    Summit. You’ll use Microsoft 365 Copilot Chat to gather insights, generate ideas,
+    visualize the schedule, draft a planning document, summarize it, and collaborate
+    with your colleagues.
+  duration: 114 minutes
+  level: 200
+  islab: true
+  primarytopics:
+  - Microsoft 365
+  - Microsoft 365 Copilot
+  - Microsoft 365 Copilot Chat
 ---
+
 # Lab 1 - Plan a Client Summit with Microsoft 365 Copilot Chat
 
 Imagine you're a business operations associate at a mid-sized consulting firm. Your manager has asked you to lead planning for an upcoming Client Innovation Summit. You’ll use Microsoft 365 Copilot Chat to gather insights, generate ideas, visualize the schedule, draft a planning document, summarize it, and collaborate with your colleagues. 
