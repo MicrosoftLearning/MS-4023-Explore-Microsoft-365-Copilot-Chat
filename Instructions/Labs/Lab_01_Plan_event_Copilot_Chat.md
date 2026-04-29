@@ -97,9 +97,9 @@ Now that you’ve outlined the structure and ideas for your event, use Copilot C
 
 1. Select **Send**, review the information provided by Copilot and if needed, refine the prompt.
 
-1. Select **Copy** underneath the response to copy Copilot’s response.
+1. Next, Ask Copilot to create a Word document from this information, enter this prompt: Create a Word document of this planning brief.
 
-1. Open **Word** from the Windows taskbar to create a new document.
+1. Open the generated **Word** document.
 
 1. If prompted to sign in, enter userx@yourtenant.onmicrosoft.com (provided by your tenant provider) and select **Next**.
    
@@ -108,8 +108,6 @@ Now that you’ve outlined the structure and ideas for your event, use Copilot C
 1. If prompted to **Stay signed in?**, select the **Don't show this again** checkbox, then select **Yes**.
 
 1. Select **Blank document** to open a new Word document.
-
-1. **Paste** the Copilot response you copied into the Word document.
 
 1. Select **File** at the top right corner of your document, then select **Save As** to save your document.
 
