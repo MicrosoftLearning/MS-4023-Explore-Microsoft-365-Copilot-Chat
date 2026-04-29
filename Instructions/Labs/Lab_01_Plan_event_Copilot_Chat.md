@@ -97,7 +97,9 @@ Now that you’ve outlined the structure and ideas for your event, use Copilot C
 
 1. Select **Send**, review the information provided by Copilot and if needed, refine the prompt.
 
-1. Next, Ask Copilot to create a Word document from this information, enter this prompt: Create a Word document of this planning brief.
+1. Next, ask Copilot to create a Word document from this information, enter this prompt:
+
+   +++Create a Word document of this planning brief.+++
 
 1. Open the generated **Word** document.
 
