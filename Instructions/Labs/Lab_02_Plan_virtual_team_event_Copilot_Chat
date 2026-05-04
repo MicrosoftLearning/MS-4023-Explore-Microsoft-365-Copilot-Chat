@@ -41,15 +41,16 @@ In this task, you’ll start in Copilot Chat (web mode) to brainstorm ideas for 
 
    +++I’m planning a virtual team-building event for our remote team to boost collaboration and morale. Summarize 8 trending ideas for virtual team-building activities in bullet points, with brief descriptions and why they work well for remote teams. Make it concise and professional.+++
 
-1. Select **Send (arrow icon)** on bottom right of the prompt box or select **Enter** on your keyboard. 
+1. Select **Send (arrow icon)** on bottom right of the prompt box or select **Enter** on your keyboard.
 
 1. Review the information provided by Copilot and if needed, refine the prompt.
 
-1. Enter this follow-up prompt: 
+1. Enter this follow-up prompt:
 
     +++I’d like to host [virtual team-building event]. Can you suggest and compare 3 [virtual team-building event] providers, including pricing plans for each? Present this in a clear table format.+++
 
-   **NOTE:** Replace [virtual team-building event] with your chosen event. 
+   > [!NOTE]
+   > Replace `[virtual team-building event]` with your chosen event.
 
 1. Select **Send** or select **Enter**. 
 
