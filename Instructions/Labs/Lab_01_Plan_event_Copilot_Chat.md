@@ -37,11 +37,12 @@ You are ready to begin Task 1.
 
 In this task, you’ll explore how Copilot Chat can help you quickly identify key innovation trends from the web that are relevant to your summit. This is the foundation for shaping the event agenda around meaningful topics that resonate with your client audience.
 
-1. Enter this prompt in the prompt box at the bottom of the Copilot Chat:
+1. Enter this prompt in the **Message Copilot** prompt box:
 
     +++What are the top three innovation trends in [your industry] for 2025 and how can they shape the agenda for a client summit?+++
-   
-   **NOTE:** Replace [industry] with the industry of your choosing.
+
+    > [!NOTE]
+    > Replace [industry] with the industry of your choosing.
 
 1. Select **Send (arrow icon)** on bottom right of the prompt box or select **Enter** on your keyboard. 
 
