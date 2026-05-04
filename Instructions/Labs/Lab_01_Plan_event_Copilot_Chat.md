@@ -72,7 +72,8 @@ Copilot Chat can help you quickly convert text-based ideas into visual content. 
 
    +++Create an agenda timeline for a 1-day summit focused on [trend] with an introduction, closing, sessions at 9:00 AM, 11:00 AM, 1:30 PM, and 3:00 PM, two mini breaks, and an hour break for lunch in a table format.+++
 
-   **NOTE:** Replace [trends] with one of the trends listed in Task 1.
+   > [!NOTE]
+   > Replace [trends] with one of the trends listed in Task 1.
 
 1. Select **Send**, review the information provided by Copilot and if needed, refine the prompt.
 
@@ -89,7 +90,7 @@ Now that you’ve outlined the structure and ideas for your event, use Copilot C
 1. In the same chat with Copilot, enter this prompt:
 
    +++Create a 1-page planning brief for this client innovation summit that includes: goals, audience, session themes, and key planning milestones.+++
-   
+
 1. Select **Send**, review the information provided by Copilot and if needed, refine the prompt.
 
 1. Enter this follow-up prompt:
@@ -98,27 +99,17 @@ Now that you’ve outlined the structure and ideas for your event, use Copilot C
 
 1. Select **Send**, review the information provided by Copilot and if needed, refine the prompt.
 
-1. Next, ask Copilot to create a Word document from this information, enter this prompt:
+1. Next, ask Copilot to create a Word document from this information. Enter this prompt:
 
    +++Create a Word document of this planning brief.+++
 
-1. Open the generated **Word** document.
+1. Select the generated Word document link to open it in Word for the web.
 
-1. If prompted to sign in, enter userx@yourtenant.onmicrosoft.com (provided by your tenant provider) and select **Next**.
-   
-1. At the **Enter password** screen, enter Password1 (provided by your tenant provider), then select **Sign in**..
-   
-1. If prompted to **Stay signed in?**, select the **Don't show this again** checkbox, then select **Yes**.
+1. Review the planning brief document. At the top of the page, select the file name and enter a new name for your document (ex: `Client Summit Planning Brief`).
 
-1. Select **Blank document** to open a new Word document.
+1. Confirm the document is saved by verifying **Autosaved** appears at the top left of the page.
 
-1. Select **File** at the top right corner of your document, then select **Save As** to save your document.
-
-1. Under Other Locations select **This PC**, then enter a **file name** in the textbox at the top to give your document a name (ex: Client Summit Planning Brief).
-
-1.  Select **Save**, then **close** out of your document.
-
-1. Navigate back to your Copilot Chat conversation to complete task 5.
+1. Close the Word for the web tab and navigate back to your Copilot Chat conversation to complete Task 5.
 
 ## Task 5: Analyze and generate content from a file
 
@@ -165,6 +156,7 @@ In the same chat with Copilot, enter this prompt:
 
 +++Create a checklist of what I learned today using Copilot Chat and how I can apply it to my [role].+++
 
-**NOTE:** Replace [role] with your role.
+> [!NOTE]
+> Replace [role] with your role.
 
 **End of Lab**
