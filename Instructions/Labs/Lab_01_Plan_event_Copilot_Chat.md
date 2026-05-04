@@ -16,22 +16,22 @@ The tasks in this lab will guide you on how to navigate and prompt in Microsoft 
 Before you can start this lab, you'll need to log into your virtual machine and launch the Microsoft 365 Copilot Chat web app. Follow the steps below to get started: 
 
 1. Log into the virtual machine provided by your tenant provider as the local **Administrator** account with the password `Pa55w.rd`.
-   
-1. In the Windows taskbar, select **Microsoft Edge**.
-   
-1. To launch Microsoft 365 Copilot Chat, enter `https://m365copilot.com` in the address bar and a dialogue box will prompt you to sign in.
-   
-1. At the **Sign-in Prompt**, enter userx@yourtenant.onmicrosoft.com (provided by your tenant provider) and select **Next**.
-   
-1. At the **Enter password** screen, enter Password1 (provided by your tenant provider), then select **Sign in**..
-   
-1. If prompted to **Stay signed in?**, select the **Don't show this again** checkbox, then select **Yes**.
-   
-1. If prompted to **Unlock Copilot Chat in Microsoft 365 Apps - Add Copilot Chat to Microsoft 365 Copilot app, Teams and Outlook for easy access**, feel free to select **Skip for now** or **Add Copilot**, as either action does not have any effect on this lab exercise.
-   
-1. The Microsoft 365 Copilot Chat web app should launch, if not, select the **Copilot icon** on the left navigation menu to open Copilot Chat.
 
-You are ready to begin Task 1. 
+1. In the Windows taskbar, select **Microsoft Edge**.
+
+1. To launch Microsoft 365 Copilot Chat, enter `https://m365copilot.com` in the address bar and a dialogue box will prompt you to sign in.
+
+1. At the **Sign-in Prompt**, enter userx@yourtenant.onmicrosoft.com (provided by your tenant provider) and select **Next**.
+
+1. At the **Enter password** screen, enter Password1 (provided by your tenant provider), then select **Sign in**..
+
+1. If prompted to **Stay signed in?**, select the **Don't show this again** checkbox, then select **Yes**.
+
+1. If prompted to **Unlock Copilot Chat in Microsoft 365 Apps - Add Copilot Chat to Microsoft 365 Copilot app, Teams and Outlook for easy access**, feel free to select **Skip for now** or **Add Copilot**, as either action does not have any effect on this lab exercise.
+
+1. The Microsoft 365 Copilot Chat web app should launch. You should see the **"Hi, what can I help you with?"** prompt and **Message Copilot** prompt box.
+
+You are ready to begin Task 1.
 
 ## Task 1: Summarize industry trends for event planning
 
