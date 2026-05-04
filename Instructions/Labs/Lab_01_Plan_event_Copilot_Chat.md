@@ -29,7 +29,7 @@ Before you can start this lab, you'll need to log into your virtual machine and 
 
 1. If prompted to **Unlock Copilot Chat in Microsoft 365 Apps - Add Copilot Chat to Microsoft 365 Copilot app, Teams and Outlook for easy access**, feel free to select **Skip for now** or **Add Copilot**, as either action does not have any effect on this lab exercise.
 
-1. The Microsoft 365 Copilot Chat web app should launch. You should see the **"Hi, what can I help you with?"** prompt and **Message Copilot** prompt box.
+1. The Microsoft 365 Copilot Chat web app should launch. You should see the **"Hi, what can I help with?"** prompt and **Message Copilot** prompt box.
 
 You are ready to begin Task 1.
 
