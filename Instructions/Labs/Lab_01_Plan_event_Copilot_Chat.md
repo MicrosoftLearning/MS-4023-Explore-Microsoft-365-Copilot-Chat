@@ -44,11 +44,11 @@ In this task, you’ll explore how Copilot Chat can help you quickly identify ke
     > [!NOTE]
     > Replace [industry] with the industry of your choosing.
 
-1. Select **Send (arrow icon)** on bottom right of the prompt box or select **Enter** on your keyboard. 
+1. Select **Send (arrow icon)** on bottom right of the prompt box or select **Enter** on your keyboard.
 
 1. Review the information provided by Copilot and if needed, refine the prompt.
 
-## Task 2: Brainstorm and draft session ideas 
+## Task 2: Brainstorm and draft session ideas
 
 Building on the trends you just researched, use Copilot to brainstorm engaging and relevant session titles and descriptions. This helps you transform raw insights into concrete agenda items that can drive value for event attendees.
 
