@@ -119,13 +119,13 @@ In this task, you’ll upload the planning brief from Task 4 and have Copilot su
 
     +++Summarize the key points from this planning brief into only 5 condensed bullet points:+++
 
-1. Select **Add a file (paper clip icon)** on the bottom right corner of the prompt box to open the File Explorer dialogue.
+1. In the prompt box, select the **+** icon to add a file.
 
-1. Select **Documents** on right of File Explorer to locate your recently saved document from **Task 4**.
+1. Select **Add work content**.
 
-1. Select your document, then select **Open** at the bottom of File Explorer to upload the file to the Copilot Chat prompt box. 
+1. Select the **Client Summit Planning Brief** Word document from the list.
 
-1. Once you see the file has been uploaded to the prompt box, select **Send**.
+1. Once the file is attached to the prompt box, select **Send**.
 
 1. Review the information provided by Copilot and if needed, refine the prompt.
 
@@ -139,9 +139,9 @@ In this task, you’ll upload the planning brief from Task 4 and have Copilot su
 
 Turn the email draft from Task 5 into a collaborative workspace using Copilot Pages. This will let you simulate how multiple team members can refine content in real time.
 
-1. Select **Edit in Pages** underneath Copilot’s last response in **Task 5** (or any response you prefer) to copy over that information to Copilot Pages.
+1. Underneath Copilot's last response in **Task 5** (or any response you prefer), select **Edit in Pages** to copy that information to Copilot Pages.
 
-1. A new Copilot Page will open on the right pane of Copilot Chat, explore the following actions:
+1. A new Copilot Page will open in the right pane of Copilot Chat. Explore the following actions:
 
     - Give the page a new title at the top of the page.  
     - Type any additional content throughout the page by just clicking into the page.
