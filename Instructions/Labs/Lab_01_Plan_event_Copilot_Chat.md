@@ -44,7 +44,7 @@ In this task, you’ll explore how Copilot Chat can help you quickly identify ke
     > [!NOTE]
     > Replace [industry] with the industry of your choosing.
 
-1. Select **Send (arrow icon)** on bottom right of the prompt box or select **Enter** on your keyboard.
+1. Select **Send (arrow icon)** on bottom right of the prompt box or press **Enter** on your keyboard.
 
 1. Review the information provided by Copilot and if needed, refine the prompt.
 
