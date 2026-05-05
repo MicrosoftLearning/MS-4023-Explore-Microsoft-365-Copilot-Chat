@@ -16,38 +16,39 @@ The tasks in this lab will guide you on how to navigate and prompt in Microsoft 
 Before you can start this lab, you'll need to log into your virtual machine and launch the Microsoft 365 Copilot Chat web app. Follow the steps below to get started: 
 
 1. Log into the virtual machine provided by your tenant provider as the local **Administrator** account with the password `Pa55w.rd`.
-   
-1. In the Windows taskbar, select **Microsoft Edge**.
-   
-1. To launch Microsoft 365 Copilot Chat, enter `https://m365copilot.com` in the address bar and a dialogue box will prompt you to sign in.
-   
-1. At the **Sign-in Prompt**, enter userx@yourtenant.onmicrosoft.com (provided by your tenant provider) and select **Next**.
-   
-1. At the **Enter password** screen, enter Password1 (provided by your tenant provider), then select **Sign in**..
-   
-1. If prompted to **Stay signed in?**, select the **Don't show this again** checkbox, then select **Yes**.
-   
-1. If prompted to **Unlock Copilot Chat in Microsoft 365 Apps - Add Copilot Chat to Microsoft 365 Copilot app, Teams and Outlook for easy access**, feel free to select **Skip for now** or **Add Copilot**, as either action does not have any effect on this lab exercise.
-   
-1. The Microsoft 365 Copilot Chat web app should launch, if not, select the **Copilot icon** on the left navigation menu to open Copilot Chat.
 
-You are ready to begin Task 1. 
+1. In the Windows taskbar, select **Microsoft Edge**.
+
+1. To launch Microsoft 365 Copilot Chat, enter `https://m365copilot.com` in the address bar and a dialogue box will prompt you to sign in.
+
+1. At the **Sign-in Prompt**, enter userx@yourtenant.onmicrosoft.com (provided by your tenant provider) and select **Next**.
+
+1. At the **Enter password** screen, enter Password1 (provided by your tenant provider), then select **Sign in**..
+
+1. If prompted to **Stay signed in?**, select the **Don't show this again** checkbox, then select **Yes**.
+
+1. If prompted to **Unlock Copilot Chat in Microsoft 365 Apps - Add Copilot Chat to Microsoft 365 Copilot app, Teams and Outlook for easy access**, feel free to select **Skip for now** or **Add Copilot**, as either action does not have any effect on this lab exercise.
+
+1. The Microsoft 365 Copilot Chat web app should launch. You should see the **"Hi, what can I help with?"** prompt and **Message Copilot** prompt box.
+
+You are ready to begin Task 1.
 
 ## Task 1: Summarize industry trends for event planning
 
 In this task, you’ll explore how Copilot Chat can help you quickly identify key innovation trends from the web that are relevant to your summit. This is the foundation for shaping the event agenda around meaningful topics that resonate with your client audience.
 
-1. Enter this prompt in the prompt box at the bottom of the Copilot Chat:
+1. Enter this prompt in the **Message Copilot** prompt box:
 
     +++What are the top three innovation trends in [your industry] for 2025 and how can they shape the agenda for a client summit?+++
-   
-   **NOTE:** Replace [industry] with the industry of your choosing.
 
-1. Select **Send (arrow icon)** on bottom right of the prompt box or select **Enter** on your keyboard. 
+    > [!NOTE]
+    > Replace [industry] with the industry of your choosing.
+
+1. Select **Send (arrow icon)** on bottom right of the prompt box or press **Enter** on your keyboard.
 
 1. Review the information provided by Copilot and if needed, refine the prompt.
 
-## Task 2: Brainstorm and draft session ideas 
+## Task 2: Brainstorm and draft session ideas
 
 Building on the trends you just researched, use Copilot to brainstorm engaging and relevant session titles and descriptions. This helps you transform raw insights into concrete agenda items that can drive value for event attendees.
 
@@ -71,7 +72,8 @@ Copilot Chat can help you quickly convert text-based ideas into visual content. 
 
    +++Create an agenda timeline for a 1-day summit focused on [trend] with an introduction, closing, sessions at 9:00 AM, 11:00 AM, 1:30 PM, and 3:00 PM, two mini breaks, and an hour break for lunch in a table format.+++
 
-   **NOTE:** Replace [trends] with one of the trends listed in Task 1.
+   > [!NOTE]
+   > Replace [trends] with one of the trends listed in Task 1.
 
 1. Select **Send**, review the information provided by Copilot and if needed, refine the prompt.
 
@@ -88,7 +90,7 @@ Now that you’ve outlined the structure and ideas for your event, use Copilot C
 1. In the same chat with Copilot, enter this prompt:
 
    +++Create a 1-page planning brief for this client innovation summit that includes: goals, audience, session themes, and key planning milestones.+++
-   
+
 1. Select **Send**, review the information provided by Copilot and if needed, refine the prompt.
 
 1. Enter this follow-up prompt:
@@ -97,27 +99,17 @@ Now that you’ve outlined the structure and ideas for your event, use Copilot C
 
 1. Select **Send**, review the information provided by Copilot and if needed, refine the prompt.
 
-1. Next, ask Copilot to create a Word document from this information, enter this prompt:
+1. Next, ask Copilot to create a Word document from this information. Enter this prompt:
 
    +++Create a Word document of this planning brief.+++
 
-1. Open the generated **Word** document.
+1. Select the generated Word document link to open it in Word for the web.
 
-1. If prompted to sign in, enter userx@yourtenant.onmicrosoft.com (provided by your tenant provider) and select **Next**.
-   
-1. At the **Enter password** screen, enter Password1 (provided by your tenant provider), then select **Sign in**..
-   
-1. If prompted to **Stay signed in?**, select the **Don't show this again** checkbox, then select **Yes**.
+1. Review the planning brief document. At the top of the page, select the file name and enter a new name for your document (ex: `Client Summit Planning Brief`).
 
-1. Select **Blank document** to open a new Word document.
+1. Confirm the document is saved by verifying **Autosaved** appears at the top left of the page.
 
-1. Select **File** at the top right corner of your document, then select **Save As** to save your document.
-
-1. Under Other Locations select **This PC**, then enter a **file name** in the textbox at the top to give your document a name (ex: Client Summit Planning Brief).
-
-1.  Select **Save**, then **close** out of your document.
-
-1. Navigate back to your Copilot Chat conversation to complete task 5.
+1. Close the Word for the web tab and navigate back to your Copilot Chat conversation to complete Task 5.
 
 ## Task 5: Analyze and generate content from a file
 
@@ -127,13 +119,13 @@ In this task, you’ll upload the planning brief from Task 4 and have Copilot su
 
     +++Summarize the key points from this planning brief into only 5 condensed bullet points:+++
 
-1. Select **Add a file (paper clip icon)** on the bottom right corner of the prompt box to open the File Explorer dialogue.
+1. In the prompt box, select the **+** icon to add a file.
 
-1. Select **Documents** on right of File Explorer to locate your recently saved document from **Task 4**.
+1. Select **Add work content**.
 
-1. Select your document, then select **Open** at the bottom of File Explorer to upload the file to the Copilot Chat prompt box. 
+1. Select the **Client Summit Planning Brief** Word document from the list.
 
-1. Once you see the file has been uploaded to the prompt box, select **Send**.
+1. Once the file is attached to the prompt box, select **Send**.
 
 1. Review the information provided by Copilot and if needed, refine the prompt.
 
@@ -147,9 +139,9 @@ In this task, you’ll upload the planning brief from Task 4 and have Copilot su
 
 Turn the email draft from Task 5 into a collaborative workspace using Copilot Pages. This will let you simulate how multiple team members can refine content in real time.
 
-1. Select **Edit in Pages** underneath Copilot’s last response in **Task 5** (or any response you prefer) to copy over that information to Copilot Pages.
+1. Underneath Copilot's last response in **Task 5** (or any response you prefer), select **Edit in Pages** to copy that information to Copilot Pages.
 
-1. A new Copilot Page will open on the right pane of Copilot Chat, explore the following actions:
+1. A new Copilot Page will open in the right pane of Copilot Chat. Explore the following actions:
 
     - Give the page a new title at the top of the page.  
     - Type any additional content throughout the page by just clicking into the page.
@@ -164,6 +156,7 @@ In the same chat with Copilot, enter this prompt:
 
 +++Create a checklist of what I learned today using Copilot Chat and how I can apply it to my [role].+++
 
-**NOTE:** Replace [role] with your role.
+> [!NOTE]
+> Replace [role] with your role.
 
 **End of Lab**
