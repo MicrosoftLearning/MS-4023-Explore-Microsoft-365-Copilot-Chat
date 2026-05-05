@@ -4,7 +4,7 @@
 ---
 # Lab 2 - Plan a virtual team-building event with Microsoft 365 Copilot Chat
 
-Your manager has asked you to organize a virtual team-building event for your team. You’ll use **Microsoft 365 Copilot Chat integrated into M365 apps** to brainstorm ideas, organize notes, create a budget, draft documents, send invitations, and generate a PowerPoint deck. You'll learn how Copilot Chat uses the context of your open files and prompts to streamline workflow cross apps. 
+Your manager has asked you to organize a virtual team-building event for your team. You’ll use **Microsoft 365 Copilot Chat integrated into M365 apps** to brainstorm ideas, organize notes, create a budget, draft documents, send invitations, and generate a PowerPoint deck. You'll learn how Copilot Chat uses the context of your open files and prompts to streamline workflow across apps.
 
 The tasks in this lab will guide you on how to navigate and prompt in Microsoft 365 Copilot Chat. To fully complete this lab, you need a Microsoft 365 subscription.
 
@@ -13,7 +13,7 @@ The tasks in this lab will guide you on how to navigate and prompt in Microsoft 
 
 ## Before you start
 
-Before you can start this lab, you'll need to log into your virtual machine and launch the Microsoft 365 Copilot Chat web app. Follow the steps below to get started: 
+Before you can start this lab, you'll need to log into your virtual machine and launch the Microsoft 365 Copilot Chat web app. Follow the steps below to get started:
 
 1. Log into the virtual machine provided by your tenant provider as the local **Administrator** account with the password `Pa55w.rd`.
 
@@ -23,7 +23,7 @@ Before you can start this lab, you'll need to log into your virtual machine and 
 
 1. At the **Sign-in Prompt**, enter userx@yourtenant.onmicrosoft.com (provided by your tenant provider) and select **Next**.
 
-1. At the **Enter password** screen, enter Password1 (provided by your tenant provider), then select **Sign in**..
+1. At the **Enter password** screen, enter Password1 (provided by your tenant provider), then select **Sign in**.
 
 1. If prompted to **Stay signed in?**, select the **Don't show this again** checkbox, then select **Yes**.
 
@@ -52,7 +52,7 @@ In this task, you’ll start in Copilot Chat (web mode) to brainstorm ideas for 
    > [!NOTE]
    > Replace `[virtual team-building event]` with your chosen event.
 
-1. Select **Send** or press **Enter**. 
+1. Select **Send** or press **Enter**.
 
 1. Review the information provided by Copilot and if needed, refine the prompt.
 
@@ -71,11 +71,11 @@ In this task, you'll use Copilot Chat in OneNote to organize your planning notes
    > `[booking the provider, sending invites, and preparing materials]` with the tasks you need
    > to complete.
 
-1. Select **Send** or press **Enter**.  
+1. Select **Send** or press **Enter**.
 
 1. Review the information provided by Copilot and if needed, refine the prompt.
 
-1. Once you are happy with Copilot´s response, copy the content and paste it into your OneNote page.
+1. Once you are happy with Copilot's response, copy the content and paste it into your OneNote page.
 
 1. Navigate back to the Microsoft 365 Copilot Chat app, and in the same conversation, enter this follow-up prompt:
 
@@ -87,7 +87,7 @@ In this task, you'll use Copilot Chat in OneNote to organize your planning notes
 
 ## Task 3: Excel – Build and analyze the budget
 
-In this task, you'll use Copilot Chat in Excel to build and analyze an estimated budget for the event and create a visual representation of the budget. 
+In this task, you'll use Copilot Chat in Excel to build and analyze an estimated budget for the event and create a visual representation of the budget.
 
 1. Navigate back to the Copilot Chat app.
 
@@ -148,7 +148,7 @@ In this task, you'll use Copilot Chat in Word to draft a formal planning documen
 
 1. Review the information provided by Copilot and if needed, refine the prompt.
 
-1. Add the content into your Word file and save.  
+1. Add the content into your Word file and save.
 
 ## Task 5: Outlook – Draft the invitation email
 
@@ -164,7 +164,7 @@ In this task, you'll use Copilot Chat in Outlook to create a friendly and fun in
    > Replace `[date, time, and RSVP details]` with what you'd like to include in the email
    > invite.
 
-1. Select **Send** or press **Enter**.  
+1. Select **Send** or press **Enter**.
 
 1. Review the information provided by Copilot and if needed, refine the prompt.
 
@@ -182,7 +182,7 @@ In this task, you'll use Copilot Chat in Outlook to create a friendly and fun in
 
 1. Review the information provided by Copilot and if needed, refine the prompt.
 
-1. Add the content into your email and save.  
+1. Add the content into your email and save.
 
 ## Task 6: PowerPoint – Generate a slide deck
 
