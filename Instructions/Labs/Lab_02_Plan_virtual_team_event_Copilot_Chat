@@ -60,29 +60,28 @@ In this task, you’ll start in Copilot Chat (web mode) to brainstorm ideas for 
 
 In this task, you'll use Copilot Chat in OneNote to organize your planning notes into actionable tasks to help guide you in your event planning process.
 
-1. Open OneNote on your device and create a new page. 
+1. Navigate to `https://onenote.cloud.microsoft` to open OneNote, and then create a new page.
 
-1. Select the **Copilot icon** at the top right corner of the ribbon and Copilot will open in a side pane.  
-
-1. Open the same chat conversation with Copilot located in the navigation panel under "chats."
-
-1. In the same chat with Copilot, enter this prompt in the prompt box:
+1. Navigate back to the Microsoft 365 Copilot Chat app, and in the same conversation, enter this prompt in the prompt box:
 
     +++Help me create a to-do list for planning [virtual team-building event], formatted for OneNote. Include tasks like [booking the provider, sending invites, and preparing materials.]+++
-    
-    **NOTE:** Replace [virtual team-building event] with your chosen event and replace [booking the provider, sending invites, and preparing materials] with tasks you need to complete.
+
+   > [!NOTE]
+   > Replace `[virtual team-building event]` with your chosen event. Replace
+   > `[booking the provider, sending invites, and preparing materials]` with the tasks you need
+   > to complete.
 
 1. Select **Send** or select **Enter**.  
 
-1. Review the information provided by Copilot and if needed, refine the prompt. 
+1. Review the information provided by Copilot and if needed, refine the prompt.
 
-1. Once you are happy with Copilot's response, copy and paste the information onto your OneNote page. 
+1. Once you are happy with Copilot´s response, copy the content and paste it into your OneNote page.
 
-1. Enter this follow-up prompt: 
+1. Navigate back to the Microsoft 365 Copilot Chat app, and in the same conversation, enter this follow-up prompt:
 
     +++Prioritize these tasks based on what needs to be completed first.+++
 
-1. Select **Send** or select **Enter**. 
+1. Select **Send** or select **Enter**.
 
 1. Review the information provided by Copilot and if needed, refine the prompt.
 
@@ -95,20 +94,19 @@ In this task, you'll use Copilot Chat in Excel to build and analyze an estimated
 1. In the same chat with Copilot, enter this prompt in the prompt box:
 
     +++Help me build an estimated budget using [virtual event provider] as the host for this virtual team-building event. Assume 30 attendees and include prize costs for winners. Create this as an Excel file.+++
-     
-    **NOTE:** Replace [virtual event provider] with your chosen provider. 
 
-1. Select **Send** or select **Enter**. 
+   > [!NOTE]
+   > Replace `[virtual event provider]` with your chosen provider.
+
+1. Select **Send** or select **Enter**.
 
 1. Review the information provided by Copilot and if needed, refine the prompt.
 
-1. Download and open the Excel file Copilot Chat created and save it. 
+1. In the Copilot response, select the Excel file link to download it.
 
-1. Select the **Copilot icon** at the top right corner of the ribbon and Copilot will open in a side pane. 
+1. Open the downloaded file in Excel and save it.
 
-1. Open the same chat conversation located in the navigation panel under "chats."
-
-1. Enter this prompt: 
+1. Navigate back to the Microsoft 365 Copilot Chat app, and in the same conversation, enter this prompt:
     
     +++Summarize the cost breakdown for each pricing scenario for leadership review. Include a visual chart.+++
 
@@ -116,7 +114,9 @@ In this task, you'll use Copilot Chat in Excel to build and analyze an estimated
 
 1. Review the information provided by Copilot and if needed, refine the prompt.
 
-1. Add the content into your Excel sheet and save. 
+1. Copy the content from the Copilot response and paste it into your Excel sheet.
+
+1. Save the file.
 
 ## Task 4: Word – Create an event planning document
 
